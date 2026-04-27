@@ -1,6 +1,17 @@
+# Python
 __pycache__/
 *.pyc
 *.pkl
 .env
-*.xlsx
-raw/
+
+# Keep datasets but ignore raw folder
+data/raw/
+
+# Models and outputs
+*.h5
+*.joblib
+engine/model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
