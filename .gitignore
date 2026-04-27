@@ -5,7 +5,7 @@ __pycache__/
 .env
 
 # Keep datasets but ignore raw folder
-data/raw/
+# data/raw/
 
 # Models and outputs
 *.h5
