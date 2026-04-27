@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pkl
+.env
+*.xlsx
+raw/
